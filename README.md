@@ -1,4 +1,4 @@
-# -Atliq-Hardware-Insights-360
+
 **BUSINESS INSIGHTS 360**
 
 **Project Overview**
